@@ -1,6 +1,9 @@
 # a_estrela_ia.py
 # Algoritmo A* Interativo – Seminário de Inteligência Artificial
 
+
+Este projeto foi desenvolvido como parte de um **seminário de Inteligência Artificial** na disciplina de Computação da UFAL ministrada pelo professor Evandro, com foco na compreensão e implementação do algoritmo A*.
+
 Este projeto implementa uma versão interativa do algoritmo A* (A-estrela) em Python, com um mapa fixo contendo obstáculos. O objetivo é demonstrar, de forma didática, como o algoritmo encontra o caminho ótimo entre dois pontos em um grid bidimensional.
 
 ## 📌 Objetivo
